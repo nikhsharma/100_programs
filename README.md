@@ -4,7 +4,7 @@ Credit for the list is by a user on reddit, the comment can be found here: https
 
 000 - ~~Name Generator~~ (05/05/18)
 
-001 - Higher or Lower / Heads or Tails.
+001 - ~~Higher or Lower / Heads or Tails.~~ (05/05/18)
 
 002 - Temperature converter.
 
