@@ -6,5 +6,9 @@ second_name = ["O'Conner", "Smith", "Turner", "Sturrock", "McGhee", "Butler", "G
 
 def return_random_name():
     print random.choice(first_name) + " " +  random.choice(second_name)
+exit = False
 
-return_random_name()
+while exit == False:
+    res = raw_input("Press 'Y' for a Random name, and 'X' to exit:   ").upper()
+    if res == 'Y': return_random_name()
+    if res == 'X': exit = True
