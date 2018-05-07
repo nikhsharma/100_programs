@@ -6,7 +6,7 @@ Credit for the list is by a user on reddit, the comment can be found here: https
 
 001 - ~~Higher or Lower / Heads or Tails.~~ (05/05/18)
 
-002 - Temperature converter.
+002 - ~~Temperature converter.~~ (07/05/18)
 
 003 - Calculate your age in seconds.
 
