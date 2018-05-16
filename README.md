@@ -8,7 +8,7 @@ Credit for the list is by a user on reddit, the comment can be found here: https
 
 002 - ~~Temperature converter.~~ (07/05/18)
 
-003 - Calculate your age in seconds.
+003 - ~~Calculate your age in seconds.~~ (16/05/18)
 
 004 - Simple encryption / decryption.
 
